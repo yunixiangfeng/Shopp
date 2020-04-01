@@ -79,14 +79,3 @@ func main() {
 }
 
 ```
-
-Contributing
-------
-
-Pull requests for other services are welcome!
-
-If the changes being proposed or requested are breaking changes, please create an issue for discussion.
-
-License
-------
-Distributed under MIT License, please see license file in code for more details.

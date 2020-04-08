@@ -21,13 +21,4 @@ Notes:
 Installation
 ------------
 
-Use go get.
-
-```shell
-go get -u gopkg.in/go-playground/webhooks.v5
-```
-
-Then import the package into your own code.
-
-	import "gopkg.in/go-playground/webhooks.v5"
 

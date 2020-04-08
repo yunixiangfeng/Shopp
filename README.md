@@ -16,7 +16,7 @@ Features:
 
 Notes:
 
-* Currently only
+* Currently
 
 
 

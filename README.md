@@ -31,8 +31,3 @@ Then import the package into your own code.
 
 	import "gopkg.in/go-playground/webhooks.v5"
 
-Usage and Documentation
-------
-
-Please see http://godoc.org/gopkg.in/go-playground/webhooks.v5 for detailed usage docs.
-

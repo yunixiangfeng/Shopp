@@ -16,7 +16,7 @@ Features:
 
 Notes:
 
-* Currently only accepting json payloads.
+* Currently only accepting json
 
 
 

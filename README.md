@@ -18,7 +18,6 @@ Notes:
 
 * Currently only accepting json payloads.
 
-Installation
-------------
+
 
 
